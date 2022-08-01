@@ -115,7 +115,7 @@ body {
 }
 
 .hero {
-  background: var(--main-backgroung);
+  /* background: var(--main-backgroung); */
   padding-top: 200px;
   padding-bottom: 200px;
 }
