@@ -115,6 +115,7 @@ body {
 }
 
 .hero {
+  background-image: url(https://static-cse.canva.com/blob/847064/29.jpg);
   /* background: var(--main-backgroung); */
   padding-top: 200px;
   padding-bottom: 200px;
